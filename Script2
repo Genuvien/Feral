@@ -6,7 +6,7 @@
 # - Refresh Thrash for Wild Fleshrending.
 # - Don't reprowl in combat; there's no point.
 
-# Feral APL can also be found at https://github.com/Genuvien/Feral/script2
+# Feral APL can also be found at https://github.com/Genuvien/Feral/blob/main/Script2
 
 actions.precombat+=/variable,name=fourcp_bite,value=0
 # Shred = 0, Non-snapshot Rake = 1, Snapshot Rake = 2, LI = 3, Swipe = 4
